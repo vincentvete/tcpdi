@@ -1,7 +1,7 @@
 {
-  "name": "lthh89vt/tcpdi",
+  "name": "vincentvete/tcpdi",
   "version": "1.0.0",
-  "homepage": "https://github.com/lthh89vt/tcpdi",
+  "homepage": "https://github.com/vincentvete/tcpdi",
   "description": "PDF importer for TCPDF based on FPDI (supports optimized PDF 1.5+)",
   "type": "library",
   "keywords": ["pdf", "fpdi", "tcpdf", "tcpdi"],
